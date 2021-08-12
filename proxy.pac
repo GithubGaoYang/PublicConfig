@@ -1,5 +1,6 @@
 var domains = {
     "huxiu.com": 1,
+    "huxiucdn.com": 1,
 };
  
 var server = "172.16.93.182";
